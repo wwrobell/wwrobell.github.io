@@ -1,9 +1,3 @@
-<style>
-  body {
-    background-color: #1d1d1d;
-  }
-</style>
-
 ## Album tones ALBUM.TONES
 Is a VST plugin created to precisely reproduce guitar sounds from your favourite albums
 
