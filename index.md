@@ -1,18 +1,17 @@
-# My Simple Markdown Website
+<link rel="stylesheet" href="styles.css">
 
-Welcome to my page!  
-Below is an embedded YouTube Short:
+# Album tones
 
-<div style="text-align:center">
-  <iframe 
-      width="315" 
-      height="560"
-      src="https://www.youtube.com/embed/k_4U8b7IqLo"
-      frameborder="0"
-      allowfullscreen>
-  </iframe>
+<div style="position: relative; width: 100%; max-width: 350px; margin: auto;">
+  <div style="padding-top: 177.7%; position: relative;">
+    <iframe 
+        src="https://www.youtube.com/embed/k_4U8b7IqLo"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+  </div>
 </div>
-
 ---
 
 ## About This Page
