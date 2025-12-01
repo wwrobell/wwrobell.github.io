@@ -1,6 +1,11 @@
-<link rel="stylesheet" href="styles.css">
+<style>
+  body {
+    background-color: #1d1d1d;
+  }
+</style>
 
-# Album tones
+## Album tones ALBUM.TONES
+Is a VST plugin created to precisely reproduce guitar sounds from your favourite albums
 
 <div style="position: relative; width: 100%; max-width: 350px; margin: auto;">
   <div style="padding-top: 177.7%; position: relative;">
@@ -13,6 +18,8 @@
   </div>
 </div>
 ---
+## Demo version
+Work in progress (development phase)
 
 ## About This Page
 This is a simple website using GitHub Pages and Markdown + HTML.
