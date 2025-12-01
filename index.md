@@ -1,5 +1,7 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 ## Album tones ALBUM.TONES
-Is a VST plugin created to precisely reproduce guitar sounds from your favourite albums
+Is a real-time VST plugin created to precisely reproduce guitar sounds from your favourite albums
 
 <div style="position: relative; width: 100%; max-width: 350px; margin: auto;">
   <div style="padding-top: 177.7%; position: relative;">
@@ -15,7 +17,5 @@ Is a VST plugin created to precisely reproduce guitar sounds from your favourite
 ## Demo version
 Work in progress (development phase)
 
-## About This Page
-This is a simple website using GitHub Pages and Markdown + HTML.
-
-You can mix **Markdown** for text and **HTML** for embeds.
+## Philosophy
+Emulating amp and cabinet is not enough. ALBUMTONES team is aiming for completely new approach in guitar signal chain modeling based on original reference tracks.
